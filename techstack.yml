@@ -2,7 +2,7 @@ repo_name: BenHerbst/nuxt-vuetify
 report_id: b238ac36e0120a94adfc87021e22fe78
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:50:59+00:00'
+timestamp: '2024-02-29T19:06:28+00:00'
 requested_by: jvhellemondt
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify/blob/main/package.json
   detection_source: package.json
   last_updated_by: Jens
   last_updated_on: 2023-07-03 08:48:54.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify
   detection_source: Repo Metadata
 - name: Sass
   description: Syntactically Awesome Style Sheets
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify/blob/main/package.json
   detection_source: package.json
   last_updated_by: Jens van Hellemondt
   last_updated_on: 2023-02-12 16:50:10.000000000 Z
@@ -65,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify/blob/main/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Jens van Hellemondt
   last_updated_on: 2023-02-12 16:50:10.000000000 Z
@@ -76,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -85,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify/blob/main/.github/workflows/nuxtjs.yml
   detection_source: ".github/workflows/nuxtjs.yml"
   last_updated_by: Jens van Hellemondt
   last_updated_on: 2023-03-06 17:46:57.000000000 Z
@@ -96,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BenHerbst/nuxt-vuetify/blob/main/package.json
   detection_source: package.json
   last_updated_by: Jens van Hellemondt
   last_updated_on: 2023-02-12 16:50:10.000000000 Z
